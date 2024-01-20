@@ -8,8 +8,8 @@ package main
 
 import "fmt"
 
-func getHello(name string)string{
-	return "Hello" + name
+func getHello(names string)string{
+	return "Hello" + names
 }
 
 // bisa juga seperti ini
